@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    font-family: "Arial Black", Gadget, sans-serif;
+  }
+  header {
+    background-color: #314657;
+    max-width: 100vw;
+  }
+  .fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    height: 100px;
+    background-color: #314657;
+  }
+  navbar {
+    background-color: #314657;
+  }
+  span {
+    background-color: #314657; 
+    color: #9DB3BE;
+    text-align: center;
+  }
+  #navbarNav {
+    background-color: #314657;
+  }
+  .nav-tabs .nav-link {
+    color: #9DB3BE;
+  }
+  .navbar-dark .navbar-brand {
+    background-color: #314657;
+    display:inline-block
+  }
+  #home-tab {
+    text-align: center;
+  }
+  #header-img {
+    margin-top: 5px; 
+    margin-left: 45px;
+  }
+  .img-fluid {
+    width:100%; 
+    height: auto;
+  }
+  #bio-title {
+    margin-top: 50px; margin-bottom: 50px;
+  }
+  #Revolution {
+    color: #314657;
+    font-size: 52px; 
+    letter-spacing: 2px; 
+    word-spacing: 2px; 
+    font-weight: 250; 
+    font-style: normal; 
+    font-variant: normal;
+  }
+  div#pen-div {
+    max-width: 50vw;
+  }
+
+  #blue-pen {
+    width:100%; 
+    height:100%;
+  }
+  #paragraph-section {
+    background-color: #9db3be;
+    max-width: 50vw;
+  }
+  #paragraph {
+    display: relative;
+    color:#0D001A; 
+    font-size: 25px; 
+    letter-spacing: 2px; 
+    vertical-align: middle;
+  }
+  iframe {
+    width: 100%;
+    height: 100%;
+  }
+  #features {
+    margin-top: 50px; 
+    margin-bottom: 50px;
+  }
+  #crowning {
+    color:#314657;
+    font-size: 130px; 
+    letter-spacing: 2px; 
+    word-spacing: 2px; 
+    font-weight: 700; 
+    font-style: normal; 
+    font-variant: normal;
+  }
+  #list {
+    color:#0D001A; 
+    font-size: 20px; 
+    letter-spacing: 2px; 
+    background-color: #FEBA7B;
+  }
+  #feature-list {
+    margin-top: 30%;
+  }
+  #pricing {
+    color:#314657; 
+    font-size: 125px; 
+    letter-spacing: 2px; 
+    word-spacing: 2px; 
+    font-weight: 700; 
+    font-style: normal; 
+    font-variant: normal; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+  }
+  #product-cards {
+    height: 800px;
+  
+  }
+  h6.card-footer {
+    font-size: 30px;
+    color: #743799;
+  }
+  #contact {
+    color:#314657; 
+    font-size: 80px; 
+    letter-spacing: 2px; 
+    word-spacing: 2px; 
+    font-weight: 700; 
+    font-style: normal; 
+    font-variant: normal; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+  }
+  #submit {
+    margin-top: 25px;
+  }
+  #bottom-logo {
+    width:600px; 
+    height:20vh; 
+    margin-left: 100%; 
+    margin-top: 50px; 
+    margin-bottom: 25px;
+  }
